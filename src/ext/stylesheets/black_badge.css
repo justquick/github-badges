@@ -1,13 +1,13 @@
 #github-badge {
   padding: .2em;
   color: white;
-  background-color: black;
+  background-color: #222;
   font: 12px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
 }
 
 #github-badge a {
   color: #4183c4; /* blue */
-  background-color: black;
+  background-color: #222;
   text-decoration: none;
 }
 
