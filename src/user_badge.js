@@ -52,7 +52,7 @@ GitHubBadge.loadUserInfo = function(data) {
       $(event.currentTarget).find('.description').toggle();
     })
     .find('.description')
-      .hide()
+      //.hide()
       .end()
     .filter(':gt(' + (showLimit - 1) + ')').hide() // hide extras
     if ($('#github-badge .body li').is(':hidden'))
